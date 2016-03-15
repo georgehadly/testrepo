@@ -1,0 +1,5 @@
+<apex:page >
+
+   <flow:interview name="new_customer_flow" />
+
+</apex:page>
