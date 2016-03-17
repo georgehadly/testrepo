@@ -7,6 +7,8 @@ public with sharing class AccountHandler {
  			
  			insert acc;
  			
+ 			// in a session
+ 			
  			return acc;
  			
  		}catch(DmlException except){
